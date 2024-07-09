@@ -1,2 +1,2 @@
-# audio-classification
-Deep learning project which  can be used for Audio Classification  of different birds and other animals
+# customers segmentation
+K-Means Clustring project for creating clusters for the customers in the shopping mall.
